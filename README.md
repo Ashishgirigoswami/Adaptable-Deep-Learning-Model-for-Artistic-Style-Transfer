@@ -27,6 +27,10 @@ Update the generated image iteratively to minimize both content and style losses
 Optimize to find an image that preserves the content of the content image while resembling the style of the style image.
 ##Output:
 The final output is a stylized image that merges the content and style characteristics of the input images.
+![result1](https://github.com/Ashishgirigoswami/Adaptable-Deep-Learning-Model-for-Artistic-Style-Transfer/assets/43043428/4b71f532-29e6-4104-b553-8d73f9d1a200)
+![result3](https://github.com/Ashishgirigoswami/Adaptable-Deep-Learning-Model-for-Artistic-Style-Transfer/assets/43043428/0b28251b-008c-4f08-94ac-76215c26ef90)
+![result2](https://github.com/Ashishgirigoswami/Adaptable-Deep-Learning-Model-for-Artistic-Style-Transfer/assets/43043428/998ea65b-9386-44b9-9d52-f432af06e77d)
+
 
 ## dataset link 
 https://drive.google.com/file/d/1QyEJVNDpGLCYKvqcXioH_h_6d-5NTODb/view?usp=sharing
