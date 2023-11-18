@@ -5,7 +5,8 @@ Artistic style transfer is a technique in computer vision and deep learning that
 ## Components Involved:
 Content Image: The input image whose content features are retained in the final stylized image.
 Style Image: The reference image that provides the desired artistic style to be transferred to the content image.
-### Feature Extraction: Using a pre-trained convolutional neural network (CNN) such as VGG, features are extracted from both the content and style images at various layers.
+### Feature Extraction: 
+Using a pre-trained convolutional neural network (CNN) such as VGG, features are extracted from both the content and style images at various layers.
 ### Loss Functions: 
 Style transfer involves defining and optimizing two types of losses:
 ### Content Loss:
