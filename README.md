@@ -27,3 +27,10 @@ Update the generated image iteratively to minimize both content and style losses
 Optimize to find an image that preserves the content of the content image while resembling the style of the style image.
 ##Output:
 The final output is a stylized image that merges the content and style characteristics of the input images.
+
+## dataset link 
+https://drive.google.com/file/d/1QyEJVNDpGLCYKvqcXioH_h_6d-5NTODb/view?usp=sharing
+## requirements
+PyTorch
+pillow
+OpenCV
