@@ -34,6 +34,8 @@ The final output is a stylized image that merges the content and style character
 
 ## dataset link 
 https://drive.google.com/file/d/1QyEJVNDpGLCYKvqcXioH_h_6d-5NTODb/view?usp=sharing
+### trained model link
+https://drive.google.com/file/d/1mc5KhhoAn2NwdPvQzHw6wi4yqVcSR3FI/view?usp=sharing
 ## requirements
 PyTorch
 pillow
